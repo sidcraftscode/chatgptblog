@@ -1,3 +1,4 @@
+# Why AI is going to take over the world
 Artificial intelligence (AI) has been one of the most talked-about topics in the last decade, and for good reason. AI has already started to transform many aspects of our lives, from self-driving cars to virtual personal assistants. However, as AI continues to advance, some people are becoming concerned about its potential to take over the world. In this blog, we'll explore why AI could indeed take over the world and the facts that support this claim.
 
 ## What is AI?
