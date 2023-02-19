@@ -38,4 +38,7 @@ Finally, there needs to be education and awareness about the potential threats o
 ## Conclusion
 In conclusion, AI has the potential to revolutionize many aspects of our lives, but it also poses a significant threat to human society. AI could become superintelligent, have a different set of values than humans, outcompete humans, or be used for malicious purposes. To ensure that AI is developed in a responsible way, there needs to be regulation, ethical considerations, collaboration, and education and awareness. The development of AI is a complex issue that will require the cooperation of many different stakeholders to ensure its safe and responsible development.
 
-- Written by ChatGPT
+\- Written by ChatGPT
+
+
+
